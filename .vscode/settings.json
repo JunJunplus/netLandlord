@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "*.proto": "proto3",
+        "select.h": "c",
+        "inet.h": "c",
+        "card.h": "c",
+        "time.h": "c",
+        "table.h": "c",
+        "string.h": "c",
+        "stdint.h": "c",
+        "touch.h": "c",
+        "tcp.h": "c",
+        "server.h": "c",
+        "cmath": "c",
+        "type_traits": "c",
+        "limits": "c",
+        "*.tcc": "c",
+        "typeinfo": "c",
+        "fcntl.h": "c",
+        "input.h": "c",
+        "organize_game.h": "c"
+    },
+    "cmake.sourceDirectory": "/home/ubuntu/workspace/project/3project/client"
+}

@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/ubuntu/workspace/project/3project/client/build",
+  "command": "/usr/arm/5.4.0/usr/bin/arm-linux-gcc  -I/home/ubuntu/workspace/project/3project/client/./inc    -o CMakeFiles/client.dir/src/bmp.c.o   -c /home/ubuntu/workspace/project/3project/client/src/bmp.c",
+  "file": "/home/ubuntu/workspace/project/3project/client/src/bmp.c"
+},
+{
+  "directory": "/home/ubuntu/workspace/project/3project/client/build",
+  "command": "/usr/arm/5.4.0/usr/bin/arm-linux-gcc  -I/home/ubuntu/workspace/project/3project/client/./inc    -o CMakeFiles/client.dir/src/card.c.o   -c /home/ubuntu/workspace/project/3project/client/src/card.c",
+  "file": "/home/ubuntu/workspace/project/3project/client/src/card.c"
+},
+{
+  "directory": "/home/ubuntu/workspace/project/3project/client/build",
+  "command": "/usr/arm/5.4.0/usr/bin/arm-linux-gcc  -I/home/ubuntu/workspace/project/3project/client/./inc    -o CMakeFiles/client.dir/src/font.c.o   -c /home/ubuntu/workspace/project/3project/client/src/font.c",
+  "file": "/home/ubuntu/workspace/project/3project/client/src/font.c"
+},
+{
+  "directory": "/home/ubuntu/workspace/project/3project/client/build",
+  "command": "/usr/arm/5.4.0/usr/bin/arm-linux-gcc  -I/home/ubuntu/workspace/project/3project/client/./inc    -o CMakeFiles/client.dir/src/fsm.c.o   -c /home/ubuntu/workspace/project/3project/client/src/fsm.c",
+  "file": "/home/ubuntu/workspace/project/3project/client/src/fsm.c"
+},
+{
+  "directory": "/home/ubuntu/workspace/project/3project/client/build",
+  "command": "/usr/arm/5.4.0/usr/bin/arm-linux-gcc  -I/home/ubuntu/workspace/project/3project/client/./inc    -o CMakeFiles/client.dir/src/game.c.o   -c /home/ubuntu/workspace/project/3project/client/src/game.c",
+  "file": "/home/ubuntu/workspace/project/3project/client/src/game.c"
+},
+{
+  "directory": "/home/ubuntu/workspace/project/3project/client/build",
+  "command": "/usr/arm/5.4.0/usr/bin/arm-linux-gcc  -I/home/ubuntu/workspace/project/3project/client/./inc    -o CMakeFiles/client.dir/src/lcd.c.o   -c /home/ubuntu/workspace/project/3project/client/src/lcd.c",
+  "file": "/home/ubuntu/workspace/project/3project/client/src/lcd.c"
+},
+{
+  "directory": "/home/ubuntu/workspace/project/3project/client/build",
+  "command": "/usr/arm/5.4.0/usr/bin/arm-linux-gcc  -I/home/ubuntu/workspace/project/3project/client/./inc    -o CMakeFiles/client.dir/src/main.c.o   -c /home/ubuntu/workspace/project/3project/client/src/main.c",
+  "file": "/home/ubuntu/workspace/project/3project/client/src/main.c"
+},
+{
+  "directory": "/home/ubuntu/workspace/project/3project/client/build",
+  "command": "/usr/arm/5.4.0/usr/bin/arm-linux-gcc  -I/home/ubuntu/workspace/project/3project/client/./inc    -o CMakeFiles/client.dir/src/mutex.c.o   -c /home/ubuntu/workspace/project/3project/client/src/mutex.c",
+  "file": "/home/ubuntu/workspace/project/3project/client/src/mutex.c"
+},
+{
+  "directory": "/home/ubuntu/workspace/project/3project/client/build",
+  "command": "/usr/arm/5.4.0/usr/bin/arm-linux-gcc  -I/home/ubuntu/workspace/project/3project/client/./inc    -o CMakeFiles/client.dir/src/table.c.o   -c /home/ubuntu/workspace/project/3project/client/src/table.c",
+  "file": "/home/ubuntu/workspace/project/3project/client/src/table.c"
+},
+{
+  "directory": "/home/ubuntu/workspace/project/3project/client/build",
+  "command": "/usr/arm/5.4.0/usr/bin/arm-linux-gcc  -I/home/ubuntu/workspace/project/3project/client/./inc    -o CMakeFiles/client.dir/src/tcp.c.o   -c /home/ubuntu/workspace/project/3project/client/src/tcp.c",
+  "file": "/home/ubuntu/workspace/project/3project/client/src/tcp.c"
+},
+{
+  "directory": "/home/ubuntu/workspace/project/3project/client/build",
+  "command": "/usr/arm/5.4.0/usr/bin/arm-linux-gcc  -I/home/ubuntu/workspace/project/3project/client/./inc    -o CMakeFiles/client.dir/src/touch.c.o   -c /home/ubuntu/workspace/project/3project/client/src/touch.c",
+  "file": "/home/ubuntu/workspace/project/3project/client/src/touch.c"
+}
+]

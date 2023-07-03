@@ -1,0 +1,3 @@
+/home/ubuntu/workspace/project/3project/client/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/workspace/project/3project/client/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/workspace/project/3project/client/build/CMakeFiles/client.dir
